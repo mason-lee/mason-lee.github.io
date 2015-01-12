@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="icomoon-ignore">
+</g>
+<path opacity="0.9" fill="#FFFFFF" d="M8,45.875H5v-10h3V45.875z M19,45.875h-3v-5.342c0-1.393-0.496-2.085-1.479-2.085
+	c-0.779,0-1.273,0.388-1.521,1.165c0,1.262,0,6.262,0,6.262h-3c0,0,0.04-9,0-10h2.368l0.183,2h0.062
+	c0.615-1,1.598-1.678,2.945-1.678c1.023,0,1.854,0.285,2.485,1.001c0.64,0.717,0.956,1.679,0.956,3.03V45.875z"/>
+<path opacity="0.9" fill="#FFFFFF" d="M8.05,33.375c0,0.828-0.694,1.5-1.55,1.5s-1.55-0.672-1.55-1.5s0.694-1.5,1.55-1.5
+	S8.05,32.547,8.05,33.375z"/>
+<g id="email" opacity="0.9">
+	<path fill="#FFFFFF" d="M18.162,5.919H5.838c-0.848,0-1.54,0.693-1.54,1.541v9.243c0,0.846,0.692,1.54,1.54,1.54h12.324
+		c0.848,0,1.541-0.694,1.541-1.54V7.46C19.703,6.612,19.01,5.919,18.162,5.919z M18.162,9l-6.161,3.852L5.838,9V7.46l6.163,3.852
+		l6.161-3.852V9z"/>
+</g>
+</svg>
