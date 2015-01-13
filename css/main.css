@@ -305,7 +305,8 @@ figcaption a {
 }
 
 .write-up-container {
-  padding: 3em 0;
+  padding-top: 3em;
+  padding-bottom: 3em;
 }
 
 .project-title {
