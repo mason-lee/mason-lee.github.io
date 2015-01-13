@@ -1,6 +1,23 @@
 $(function() {
-    // Default logo for when the page first loads.
-    // $(".logo").css('background-image', 'url("img/masonlee-logo.svg")');
+    // Page transition
+    $("body").css("display", "none");
+    NProgress.start();
+    
+    $(".project").click(function(e) {
+        e.preventDefault();
+        linkLocation = this.href;
+        $("body").animate({scrollTop : 0}, 500).fadeOut(500, redirectPage);
+    });
+
+    function redirectPage() {
+        window.location = linkLocation;
+    }
+
+    $(window).load(function() {
+        $("body").fadeIn(1000);
+        NProgress.done();
+    });
+
     // Animate the logo.
     $(document).scroll(function() {
         var distanceY = window.pageYOffset || document.documentElement.scrollTop,
@@ -13,20 +30,6 @@ $(function() {
                 header.removeClass("resize-header");
             }
     });
-
-    // Page transition
-    $("body").css("display", "none");
-    $("body").fadeIn(1000);
-    
-    $(".project").click(function(e) {
-        e.preventDefault();
-        linkLocation = this.href;
-        $("body").animate({scrollTop : 0}, 500).fadeOut(500, redirectPage);
-    });
-
-    function redirectPage() {
-        window.location = linkLocation;
-    }
 
     // Detect mobile devices
     function is_touch_device() {
