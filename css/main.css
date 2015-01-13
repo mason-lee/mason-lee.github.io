@@ -610,21 +610,24 @@ footer .pull-right {
       float: none;
     }
 
-    footer span {
-      text-align: center;
+    .bottom-section>.container>.row>.pull-left {
       margin-bottom: 2em;
     }
-
-    .bottom-section>.container>.row>.pull-left {
-      text-align: center;
+    
+    .last-bottom-section {
+      margin-bottom: 0;
     }
-
+    
     .resume-block {
       text-align: center !important;
     }
 
-    .copyright {
+    .copyright, footer .pull-right {
       text-align: center;
+    }
+
+    footer .pull-right {
+      margin-top: 2em;
     }
 
     .write-up-container {
