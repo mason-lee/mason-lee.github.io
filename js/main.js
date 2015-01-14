@@ -1,7 +1,9 @@
 $(function() {
     // Page transition
-    $("body").css("display", "none");
+    $(".wrapper footer").css("display", "none");
     NProgress.start();
+    NProgress.set(0.4);
+    debugger;
     
     $(".project").click(function(e) {
         e.preventDefault();
@@ -14,8 +16,8 @@ $(function() {
     }
 
     $(window).load(function() {
-        $("body").fadeIn(1000);
         NProgress.done();
+        $(".wrapper footer").fadeIn(1000);
     });
 
     // Animate the logo.
