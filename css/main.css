@@ -147,12 +147,7 @@ nav a {
   height: 25.375px;
 }
 
-.linkedin>img {
-    width: 27px;
-}
-
 .github>img {
-    width: 29px;
     margin-bottom: -2px;
 }
 
@@ -165,7 +160,7 @@ a {
 }
 
 .hero-section {
-    padding-top: 70px;
+    padding-top: 100px;
 }
 
 .main-hero-section {
@@ -204,6 +199,11 @@ a {
   overflow: hidden;
   margin-right: 1.70543%;
   margin-bottom: 22px; 
+}
+
+.project-styling a {
+  width: 100%;
+  display: block;
 }
 
 .project video {
@@ -303,7 +303,7 @@ figcaption a {
 }
 
 .write-up-container {
-  padding-top: 3em;
+  padding-top: 1em;
   padding-bottom: 3em;
 }
 
@@ -492,6 +492,11 @@ footer a {
     color: rgba(255, 255, 255, 0.9);
     font-size: 1.2em;
     font-family: 'univers_ce_55_mediumbold';
+    margin-right: 10px;
+}
+
+.email {
+  margin-right: 0;
 }
 
 footer a:hover {
@@ -519,6 +524,14 @@ footer .pull-right {
 
 .goaleasy-footer, .goaleasy-caption {
   background-color: #59c7da;
+}
+
+#swatch-title {
+  color: #e34a4a;
+}
+
+.swatch-footer, .swatch-caption {
+  background-color: #e34a4a;
 }
 
 #goaleasy-title {

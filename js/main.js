@@ -3,7 +3,6 @@ $(function() {
     $(".wrapper footer").css("display", "none");
     NProgress.start();
     NProgress.set(0.4);
-    debugger;
     
     $(".project").click(function(e) {
         e.preventDefault();
