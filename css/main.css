@@ -315,9 +315,14 @@ figcaption a {
 }
 
 .sub-header {
+  margin-top: 30px;
   margin-bottom: 5px;
   font-weight: bold;
   font-family: 'univers_ce_55_mediumregular';
+}
+
+.introduction-header {
+  margin-top: 0;
 }
 
 .section-title {
@@ -404,9 +409,14 @@ figcaption a {
 }
 
 .bottom-section {
-    background-color: #f8f8f8;
-    padding: 60px 0;
-    text-align: left;
+  background-color: #f8f8f8;
+  padding: 60px 0;
+  text-align: left;
+  margin-top: 5em;
+}
+
+.main-bottom-section {
+  margin-top: 0;
 }
 
 .resume {
@@ -484,17 +494,17 @@ figcaption a {
 }
 
 footer {
-    background-color: #5e5e5e;
-    padding: 60px 0;
-    color: rgba(255, 255, 255, 0.9);
-    text-align: center;
+  background-color: #5e5e5e;
+  padding: 60px 0;
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
 }
 
 footer a {
-    color: rgba(255, 255, 255, 0.9);
-    font-size: 1.2em;
-    font-family: 'univers_ce_55_mediumbold';
-    margin-right: 10px;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.2em;
+  font-family: 'univers_ce_55_mediumbold';
+  margin-right: 10px;
 }
 
 .email {
@@ -584,45 +594,45 @@ footer .pull-right {
 }
 
 .project-list {
-    display: table;
-    margin-left: 0;
-    padding-left: 0;
-    list-style: none;
-    margin-bottom: 20px;
+  display: table;
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 20px;
 }
 
 .order-list {
-    list-style-type: decimal;
-    counter-reset: item;
-    display: table;
-    margin-left: 0;
-    padding-left: 0;
-    margin-bottom: 20px;
+  list-style-type: decimal;
+  counter-reset: item;
+  display: table;
+  margin-left: 0;
+  padding-left: 0;
+  margin-bottom: 20px;
 }
 
 .order-list li {
-    display: table-row;
+  display: table-row;
 }
 
 .order-list li:before {
-    display: table-cell;
-    padding-right: 0.4em;
-    content: counter(item, decimal) '. ';
-    counter-increment: item;
+  display: table-cell;
+  padding-right: 0.4em;
+  content: counter(item, decimal) '. ';
+  counter-increment: item;
 }
 
 .project-list li {
-    display: table-row;
-}  
+  display: table-row;
+}
 
 .project-list li:before {
-    content: "-";
-    display: table-cell;
-    padding-right: 0.4em;
+  content: "-";
+  display: table-cell;
+  padding-right: 0.4em;
 }
 
 .project-description p {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 @media only screen and (max-width : 900px) {
