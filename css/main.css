@@ -641,6 +641,16 @@ footer .pull-right {
   height: 800px;
 }
 
+.tools-link {
+  font-size: 0.9em;
+  color: #acadaf;
+}
+
+.group-personal {
+  font-size: 0.7em;
+  color: #acadaf;
+}
+
 @media only screen and (max-width : 900px) {
     nav {
       padding: 15px 0;
