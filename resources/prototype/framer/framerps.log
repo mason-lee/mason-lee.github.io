@@ -1,0 +1,143 @@
+{"docName":"NewsFeed","path":"~/Desktop/diabeater/NewsFeed","relativeImagePath":"images","imagePath":"~/Desktop/diabeater/NewsFeed/images","framerPath":"~/Desktop/diabeater/NewsFeed/framer","viewInfoPath":"~/Desktop/diabeater/NewsFeed/framer/views.NewsFeed.js","logPaths":["/tmp/framerps.log","~/Desktop/diabeater/NewsFeed/framer/framerps.log"]}
+
+Running for ~/Desktop/diabeater/NewsFeed
+Phone: Exporting image
+Screen: Calculating vector mask bounds
+Status: Exporting image
+PROGRESS: 4.47761194029851
+PROGRESS: 4.47761194029851
+PROGRESS: 4.47761194029851
+FeedScroll: Calculating vector mask bounds
+Logo: Exporting image
+PROGRESS: 8.95522388059701
+Text: Exporting image
+PROGRESS: 10.4477611940298
+Feed: Exporting image
+PROGRESS: 11.9402985074627
+PROGRESS: 11.9402985074627
+PROGRESS: 11.9402985074627
+GoalPage: Exporting image
+NavButton_Intro: Exporting image
+PROGRESS: 14.9253731343284
+PROGRESS: 14.9253731343284
+TodayScroll: Calculating vector mask bounds
+DoneFoot: Exporting image
+Close_Foot_Msg: Exporting image
+PROGRESS: 19.4029850746269
+PROGRESS: 19.4029850746269
+Foot_number: Exporting image
+PROGRESS: 20.8955223880597
+DoneActivity: Exporting image
+Close_Activity_Msg: Exporting image
+PROGRESS: 23.8805970149254
+PROGRESS: 23.8805970149254
+DoneGlucose: Exporting image
+Close_Done_Glucose: Exporting image
+PROGRESS: 26.865671641791
+PROGRESS: 26.865671641791
+Activity_number: Exporting image
+PROGRESS: 28.3582089552239
+Glucose_number: Exporting image
+PROGRESS: 29.8507462686567
+OpenNavButton: Exporting image
+PROGRESS: 31.3432835820896
+AddAction: Exporting image
+PROGRESS: 32.8358208955224
+Show_notification: Exporting image
+PROGRESS: 34.3283582089552
+TodayFeed: Exporting image
+PROGRESS: 35.8208955223881
+PROGRESS: 35.8208955223881
+Notification: Exporting image
+CloseNotification: Exporting image
+PROGRESS: 38.8059701492537
+PROGRESS: 38.8059701492537
+Overlay: Exporting image
+AddFoot: Exporting image
+PROGRESS: 41.7910447761194
+AddActivity: Exporting image
+PROGRESS: 43.2835820895522
+AddGlucose: Exporting image
+PROGRESS: 44.7761194029851
+PROGRESS: 44.7761194029851
+AddGlucosePage: Exporting image
+FinishGlucoseButton: Exporting image
+PROGRESS: 47.7611940298507
+PROGRESS: 47.7611940298507
+BookmarkScroll: Calculating vector mask bounds
+Bookmark: Exporting image
+OpenReminderButton: Exporting image
+PROGRESS: 52.2388059701493
+OpenGoalButton: Exporting image
+PROGRESS: 53.7313432835821
+OpenReportButton: Exporting image
+PROGRESS: 55.2238805970149
+OpenTodayButton: Exporting image
+PROGRESS: 56.7164179104478
+OpenLearnButton: Exporting image
+PROGRESS: 58.2089552238806
+OpenWeekButton: Exporting image
+PROGRESS: 59.7014925373134
+PROGRESS: 59.7014925373134
+PROGRESS: 59.7014925373134
+FootPicture: Exporting image
+DoneFootPicture: Exporting image
+PROGRESS: 62.6865671641791
+PROGRESS: 62.6865671641791
+RewardPage: Exporting image
+CloseReward: Exporting image
+PROGRESS: 65.6716417910448
+PROGRESS: 65.6716417910448
+ReportPage: Exporting image
+LeaveNote: Exporting image
+PROGRESS: 68.6567164179104
+LastMonths: Exporting image
+PROGRESS: 70.1492537313433
+line1: Exporting image
+PROGRESS: 71.6417910447761
+line2: Exporting image
+PROGRESS: 73.134328358209
+line3: Exporting image
+PROGRESS: 74.6268656716418
+line4: Exporting image
+PROGRESS: 76.1194029850746
+TextBg: Exporting image
+PROGRESS: 77.6119402985075
+OpenNavFromReport: Exporting image
+PROGRESS: 79.1044776119403
+HideReportPage: Exporting image
+PROGRESS: 80.5970149253731
+PROGRESS: 80.5970149253731
+AddActivityPage: Exporting image
+FinishActivityButton: Exporting image
+PROGRESS: 83.5820895522388
+PROGRESS: 83.5820895522388
+AddFootPage: Exporting image
+FinishFootButton: Exporting image
+PROGRESS: 86.5671641791045
+OpenCamera: Exporting image
+PROGRESS: 88.0597014925373
+PROGRESS: 88.0597014925373
+WeekPage: Exporting image
+OpenReward: Exporting image
+PROGRESS: 91.044776119403
+OpenCalendar: Exporting image
+PROGRESS: 92.5373134328358
+OpenNavFromWeek: Exporting image
+PROGRESS: 94.0298507462687
+PROGRESS: 94.0298507462687
+CalendarPage: Exporting image
+CloseCalendar: Exporting image
+PROGRESS: 97.0149253731343
+PROGRESS: 97.0149253731343
+LearnPage: Exporting image
+OpenNavFromLearn: Exporting image
+PROGRESS: 100
+PROGRESS: 100
+67 views changed
+Skipping ~/Desktop/diabeater/NewsFeed/index.html (exists)
+Skipping ~/Desktop/diabeater/NewsFeed/app.js (exists)
+Skipping ~/Desktop/diabeater/NewsFeed/framer/framer.js (exists)
+Skipping ~/Desktop/diabeater/NewsFeed/framer/framerps.js (exists)
+
+SUCCESS: ~/Desktop/diabeater/NewsFeed
