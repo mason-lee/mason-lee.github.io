@@ -296,7 +296,7 @@ figcaption a {
 }
 
 .caption-container {
-  padding-top: 2em;
+  padding-top: 5em;
 }
 
 .bottom-spacing {
@@ -649,6 +649,14 @@ footer .pull-right {
 .group-personal {
   font-size: 0.7em;
   color: #acadaf;
+}
+
+.iframe-container {
+  background-color: black;
+}
+
+.adjust-padding {
+  padding-top: 2em;
 }
 
 @media only screen and (max-width : 900px) {
