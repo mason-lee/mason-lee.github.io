@@ -161,6 +161,10 @@ a {
   font-weight: bold;
 }
 
+.medium-link {
+  line-height: 1.8;
+}
+
 .hero-section {
     padding-top: 100px;
 }
