@@ -1,10 +1,12 @@
 html, body {
   max-width: 100%;
   overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
 
 body {
-    margin: 0;
     background-color: #fff;
     color: #5e5e5e;
 }
@@ -14,6 +16,15 @@ body .container {
     max-width: 80.625em;
     width: 90%;
     margin: 0 auto;
+}
+
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.content-wrapper {
+    padding-bottom: 150px;
 }
 
 .row {
@@ -194,7 +205,7 @@ a {
 
 .project-wrapper {
     padding-top: 22px;
-    padding-bottom: 60px;
+    /*padding-bottom: 60px;*/
 }
 
 .project-container ul li {
@@ -509,10 +520,14 @@ figcaption a {
 }
 
 footer {
-  background-color: #5e5e5e;
-  padding: 60px 0;
-  color: rgba(255, 255, 255, 0.9);
-  text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    background-color: #5e5e5e;
+    padding: 60px 0;
+    color: rgba(255, 255, 255, 0.9);
+    text-align: center;
 }
 
 footer a {
@@ -725,28 +740,3 @@ footer .pull-right {
       padding-top: 1em;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
