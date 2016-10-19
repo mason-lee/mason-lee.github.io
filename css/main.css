@@ -627,6 +627,7 @@ footer .pull-right {
 .normal-image-container {
   margin-bottom: 5em;
 }
+
 .process-image {
   width: 51%;
 }
@@ -698,6 +699,11 @@ footer .pull-right {
 
 .adjust-padding {
   padding-top: 2em;
+}
+
+.adroll-image-container {
+    background-color: #E6E6E6;
+    padding: 60px 0;
 }
 
 @media only screen and (max-width : 900px) {
